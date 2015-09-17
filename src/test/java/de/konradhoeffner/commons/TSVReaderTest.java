@@ -1,6 +1,5 @@
 package de.konradhoeffner.commons;
-import static org.junit.Assert.*;
-import java.io.FileNotFoundException;
+import static org.junit.Assert.assertTrue;
 import java.io.IOException;
 import org.junit.Test;
 
