@@ -1,5 +1,5 @@
 package de.konradhoeffner.commons;
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertTrue;
 import java.io.IOException;
 import org.junit.Test;
 
